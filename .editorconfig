@@ -6,5 +6,5 @@ root = true
 indent_style = space
 
 # Xml files
-[*.xml]
+[*.{c,cpp,h,hpp}]
 indent_size = 2
